@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Huijuan Feng on Huijuan Feng</title>
-    <link>https://huijfeng.github.io/</link>
+    <link>/</link>
     <description>Recent content in Huijuan Feng on Huijuan Feng</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,57 +12,57 @@
     
     <item>
       <title>Privacy Policy</title>
-      <link>https://huijfeng.github.io/privacy/</link>
+      <link>/privacy/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 -0400</pubDate>
       
-      <guid>https://huijfeng.github.io/privacy/</guid>
+      <guid>/privacy/</guid>
       <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Precise temporal regulation of alternative splicing during neural development</title>
-      <link>https://huijfeng.github.io/publication/dev_nc/</link>
+      <link>/publication/dev_nc/</link>
       <pubDate>Wed, 06 Jun 2018 00:00:00 -0400</pubDate>
       
-      <guid>https://huijfeng.github.io/publication/dev_nc/</guid>
+      <guid>/publication/dev_nc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rbfox Splicing Factors Promote Neuronal Maturation and Axon Initial Segment Assembly</title>
-      <link>https://huijfeng.github.io/publication/rbfox_neuron/</link>
+      <link>/publication/rbfox_neuron/</link>
       <pubDate>Wed, 21 Feb 2018 00:00:00 -0500</pubDate>
       
-      <guid>https://huijfeng.github.io/publication/rbfox_neuron/</guid>
+      <guid>/publication/rbfox_neuron/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Characterization of kinase gene expression and splicing profile in prostate cancer with RNA-Seq data</title>
-      <link>https://huijfeng.github.io/publication/prostatecancer_bmc/</link>
+      <link>/publication/prostatecancer_bmc/</link>
       <pubDate>Mon, 29 Jan 2018 00:00:00 -0500</pubDate>
       
-      <guid>https://huijfeng.github.io/publication/prostatecancer_bmc/</guid>
+      <guid>/publication/prostatecancer_bmc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Example Talk</title>
-      <link>https://huijfeng.github.io/talk/example-talk/</link>
+      <link>/talk/example-talk/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
       
-      <guid>https://huijfeng.github.io/talk/example-talk/</guid>
+      <guid>/talk/example-talk/</guid>
       <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Deep Learning</title>
-      <link>https://huijfeng.github.io/project/deep-learning/</link>
+      <link>/project/deep-learning/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>https://huijfeng.github.io/project/deep-learning/</guid>
+      <guid>/project/deep-learning/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 
 &lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
@@ -77,28 +77,28 @@
     
     <item>
       <title>External Project</title>
-      <link>https://huijfeng.github.io/project/example-external-project/</link>
+      <link>/project/example-external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>https://huijfeng.github.io/project/example-external-project/</guid>
+      <guid>/project/example-external-project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>mRIN for direct assessment of genome-wide and gene-specific mRNA integrity from large-scale RNA-sequencing data</title>
-      <link>https://huijfeng.github.io/publication/mrin_nc/</link>
+      <link>/publication/mrin_nc/</link>
       <pubDate>Mon, 03 Aug 2015 00:00:00 -0400</pubDate>
       
-      <guid>https://huijfeng.github.io/publication/mrin_nc/</guid>
+      <guid>/publication/mrin_nc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Opportunities and methods for studying alternative splicing in cancer with RNA-Seq</title>
-      <link>https://huijfeng.github.io/publication/cancerletter/</link>
+      <link>/publication/cancerletter/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 -0400</pubDate>
       
-      <guid>https://huijfeng.github.io/publication/cancerletter/</guid>
+      <guid>/publication/cancerletter/</guid>
       <description></description>
     </item>
     
