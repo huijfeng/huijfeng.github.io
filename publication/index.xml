@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Huijuan Feng</title>
+    <link>/publication/</link>
+    <description>Recent content in Publications on Huijuan Feng</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Huijuan Feng</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Precise temporal regulation of alternative splicing during neural development</title>
+      <link>/publication/dev_nc/</link>
+      <pubDate>Wed, 06 Jun 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/dev_nc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rbfox Splicing Factors Promote Neuronal Maturation and Axon Initial Segment Assembly</title>
+      <link>/publication/rbfox_neuron/</link>
+      <pubDate>Wed, 21 Feb 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/publication/rbfox_neuron/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characterization of kinase gene expression and splicing profile in prostate cancer with RNA-Seq data</title>
+      <link>/publication/prostatecancer_bmc/</link>
+      <pubDate>Mon, 29 Jan 2018 00:00:00 -0500</pubDate>
+      
+      <guid>/publication/prostatecancer_bmc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mRIN for direct assessment of genome-wide and gene-specific mRNA integrity from large-scale RNA-sequencing data</title>
+      <link>/publication/mrin_nc/</link>
+      <pubDate>Mon, 03 Aug 2015 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/mrin_nc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Opportunities and methods for studying alternative splicing in cancer with RNA-Seq</title>
+      <link>/publication/cancerletter/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 -0400</pubDate>
+      
+      <guid>/publication/cancerletter/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
