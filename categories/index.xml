@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Huijuan Feng</title>
-    <link>https://huijfeng.github.io/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on Huijuan Feng</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Huijuan Feng</copyright>
     
-	<atom:link href="https://huijfeng.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
