@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Modeling RNA-binding protein specificity in vivo by precisely registering protein-RNA crosslink sites</title>
+      <link>https://huijfeng.github.io/publication/mcross_mc/</link>
+      <pubDate>Sat, 03 Aug 2019 00:00:00 -0400</pubDate>
+      
+      <guid>https://huijfeng.github.io/publication/mcross_mc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Privacy Policy</title>
       <link>https://huijfeng.github.io/privacy/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 -0400</pubDate>
@@ -81,15 +90,6 @@
       <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
       
       <guid>https://huijfeng.github.io/project/example-external-project/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Modeling RNA-binding protein specificity in vivo by precisely registering protein-RNA crosslink sites</title>
-      <link>https://huijfeng.github.io/publication/mcross_mc/</link>
-      <pubDate>Mon, 03 Aug 2015 00:00:00 -0400</pubDate>
-      
-      <guid>https://huijfeng.github.io/publication/mcross_mc/</guid>
       <description></description>
     </item>
     
